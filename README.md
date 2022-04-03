@@ -1,6 +1,6 @@
 # About me
 
-9+ years of experience working in the software development industry, putting software on production in many different environments; from huge enterprises to fast-paced startups.
+10+ years of experience working in the software development industry, putting software on production in many different environments; from huge enterprises to fast-paced startups.
 
 * NodeJS (ES2077) 🚀 and Elixir 🧙‍♂️
 * Readability + simplicity = Developer experience
