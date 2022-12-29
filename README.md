@@ -1,6 +1,6 @@
 # About me
 
-10+ years of experience working in the software development industry, putting software on production in many different environments; from huge enterprises to fast-paced startups.
+12+ years of experience working in the software development industry, putting software on production in many different environments; from huge enterprises to fast-paced startups.
 
 * NodeJS (ES2077) 🚀 and Elixir 🧙‍♂️
 * Readability + simplicity = Developer experience
@@ -14,3 +14,5 @@
     * [Digital rain Matrix FX](https://github.com/raphaklaus/matrix-fx/)
 * Audio:
     * [PCM decoder and player using WebAudioAPI](https://github.com/raphaklaus/pcm-2-webaudio)
+* Misc:
+   * [Infrastructure as code to deploy your own proxy server](https://github.com/raphaklaus/copa-proxy)
